@@ -7,7 +7,9 @@
 
 **Shopper Spectrum** is an end-to-end Data Analytics and Unsupervised Machine Learning dashboard designed to empower e-commerce businesses with actionable customer intelligence and product discovery features. 
 
- **https://shopperspectrumproject19.streamlit.app/**
+##  Live Demo
+Check out the live application here: 
+👉  **https://shopperspectrumproject19.streamlit.app/**
 
 ---
 
